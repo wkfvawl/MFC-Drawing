@@ -10,5 +10,5 @@
 
 5. 程序效果演示
 ![Image text](https://github.com/wkfvawl/MFC-Drawing/blob/master/image/view.png)
-详细说明间博客：
+详细说明见博客：
 https://www.cnblogs.com/wkfvawl/p/11101171.html

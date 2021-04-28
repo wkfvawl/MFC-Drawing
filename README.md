@@ -9,6 +9,6 @@
 4. 拥有菜单、工具栏、鼠标右键等友好的编辑界面。
 
 5. 程序效果演示
-
-
+![Image text](https://github.com/wkfvawl/MFC-Drawing/blob/master/image/view.png)
+详细说明间博客：
 https://www.cnblogs.com/wkfvawl/p/11101171.html
